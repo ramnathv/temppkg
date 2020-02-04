@@ -7,6 +7,7 @@
 #' @examples
 #' add(1, 2)
 #' add(2, 3)
+#  @todo Testing the todo app integration in github
 add <- function(x, y) {
   x + y
 }
